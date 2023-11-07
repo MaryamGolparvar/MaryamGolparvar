@@ -1,4 +1,4 @@
-# HI EVERYONE!
+# HI!
 ## I'm Maryam Golparvar.
 #
 - 🌱 I’m currently learning **JavaScript**
